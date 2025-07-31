@@ -1,0 +1,10 @@
+# Figma MCP Server Configuration
+.env.figma
+.cursor/mcp.json
+figma-api-token.txt
+
+# MCP Server logs
+mcp-*.log
+
+# Figma cache
+.figma-cache/
